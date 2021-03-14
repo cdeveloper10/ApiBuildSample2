@@ -1,0 +1,11 @@
+C:\Users\KRJ\Desktop\Git\SrvSampleBuild\SrvSampleBuild\bin\Debug\net5.0\publish\SrvSampleBuild.exe
+C:\Users\KRJ\Desktop\Git\SrvSampleBuild\SrvSampleBuild\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\KRJ\Desktop\Git\SrvSampleBuild\SrvSampleBuild\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\KRJ\Desktop\Git\SrvSampleBuild\SrvSampleBuild\bin\Debug\net5.0\publish\SrvSampleBuild.dll
+C:\Users\KRJ\Desktop\Git\SrvSampleBuild\SrvSampleBuild\bin\Debug\net5.0\publish\SrvSampleBuild.deps.json
+C:\Users\KRJ\Desktop\Git\SrvSampleBuild\SrvSampleBuild\bin\Debug\net5.0\publish\SrvSampleBuild.runtimeconfig.json
+C:\Users\KRJ\Desktop\Git\SrvSampleBuild\SrvSampleBuild\bin\Debug\net5.0\publish\SrvSampleBuild.pdb
+C:\Users\KRJ\Desktop\Git\SrvSampleBuild\SrvSampleBuild\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\KRJ\Desktop\Git\SrvSampleBuild\SrvSampleBuild\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KRJ\Desktop\Git\SrvSampleBuild\SrvSampleBuild\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KRJ\Desktop\Git\SrvSampleBuild\SrvSampleBuild\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
